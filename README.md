@@ -70,8 +70,8 @@
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
 <p align="center">
-    <img alt="SamaelCr Github Stats" src="https://github-readme-stats.vercel.app/api?username=SamaelCr&show_icons=true&theme=tokyonight&border_radius=10" height="190px"/>
-    <img alt="SamaelCr Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=SamaelCr&langs_count=8&theme=tokyonight&border_radius=10&layout=compact" height="190px"/>
+    <img alt="SamaelCr Github Stats" src="https://github-readme-stats.vercel.app/api?username=SamaelCr&show_icons=true&count_private=true&theme=tokyonight&border_radius=10" height="190px"/>
+    <img alt="SamaelCr Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=SamaelCr&langs_count=8&count_private=true&theme=tokyonight&border_radius=10&layout=compact" height="190px"/>
 </p>
 
 <br>
