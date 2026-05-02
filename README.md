@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Cristopher Samael | Matima Sosa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Cristopher Matima<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Web+Developer;Game+Dev+Enthusiast;Always+learning+new+things"></a>
 </p>
@@ -56,13 +56,24 @@
   <img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?style=plastic&logo=angular&logoColor=white">
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
+ ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software, Tools & IDEs
 <p align="center">
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL%20-%234169E1.svg?style=plastic&logo=postgresql&logoColor=white">
   &emsp;
     <img alt="Docker" src="https://img.shields.io/badge/Docker%20-%232496ED.svg?style=plastic&logo=docker&logoColor=white">
   &emsp;
     <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white">
+  &emsp;
+    <img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white">
+  &emsp;
+    <img alt="Cursor" src="https://img.shields.io/badge/Cursor-1A1A1A?style=plastic&logo=cursor&logoColor=white">
+</p>
+
+ ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
+<p align="center">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black">
+  &emsp;
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white">
 </p>
 
 <br> 
@@ -70,8 +81,8 @@
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
 <p align="center">
-    <img alt="SamaelCr Github Stats" src="https://github-readme-stats.vercel.app/api?username=SamaelCr&show_icons=true&count_private=true&theme=tokyonight&border_radius=10" height="190px"/>
-    <img alt="SamaelCr Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=SamaelCr&langs_count=8&count_private=true&theme=tokyonight&border_radius=10&layout=compact" height="190px"/>
+    <img alt="SamaelCr Github Stats" src="https://github-readme-stats-one-bice.vercel.app/api?username=SamaelCr&show_icons=true&count_private=true&theme=tokyonight&border_radius=10" height="190px"/>
+    <img alt="SamaelCr Top Langs" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=SamaelCr&langs_count=8&count_private=true&theme=tokyonight&border_radius=10&layout=compact" height="190px"/>
 </p>
 
 <br>
