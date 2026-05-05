@@ -19,10 +19,6 @@
 - :school: Graduado del **Jesús Obrero**.
 - :technologist: Actualmente trabajando como **Desarrollador**.
 - :video_game: Me apasiona el desarrollo de **videojuegos** y **páginas web**.
-- :computer: Enfocado en crear soluciones eficientes y escalables.
-- :nerd_face: Siempre **aprendiendo nuevas tecnologías**.
-- :thinking: Actualmente abierto a nuevos retos y proyectos interesantes.
-<br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
