@@ -14,6 +14,7 @@ jobs:
     timeout-minutes: 5
     
     steps:
+      # 1. Generar la Serpiente
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
@@ -23,8 +24,27 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.SNAKE_TOKEN }}
+
+      # 2. Generar tarjeta de Estadísticas (incluyendo privados)
+      - name: Generate stats card
+        uses: soulteary/github-readme-stats-action@v1.0.0
+        with:
+          card: stats
+          options: 'username=SamaelCr&show_icons=true&theme=tokyonight&border_radius=10&count_private=true'
+          path: dist/stats.svg
+          token: ${{ secrets.SNAKE_TOKEN }}
+
+      # 3. Generar tarjeta de Lenguajes (incluyendo privados)
+      - name: Generate top languages card
+        uses: soulteary/github-readme-stats-action@v1.0.0
+        with:
+          card: top-langs
+          options: 'username=SamaelCr&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&count_private=true'
+          path: dist/top-langs.svg
+          token: ${{ secrets.SNAKE_TOKEN }}
           
-      - name: push github-contribution-grid-snake.svg to the output branch
+      # 4. Guardar TODO en la rama 'output'
+      - name: push all to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
